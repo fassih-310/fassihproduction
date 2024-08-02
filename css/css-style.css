@@ -2153,7 +2153,7 @@ ol {
 /* Small Device = 320px */
 @media only screen and (max-width: 479px) {
 .header__logo{
-	margin-top:30%;
+	 margin-top: -68px;
 }
   .hero__text h2 {
     font-size: 30px;
